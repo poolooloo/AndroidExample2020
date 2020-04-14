@@ -1,0 +1,22 @@
+#Fri Apr 10 15:51:57 CST 2020
+renamed.6=classes3.dex
+renamed.5=classes.dex
+renamed.4=classes2.dex
+renamed.3=classes4.dex
+renamed.2=classes6.dex
+renamed.1=classes7.dex
+renamed.0=classes5.dex
+base.6=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5b46854c6d5de1ff50c9af97f9429c1f959d4280
+base.5=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0da3b54a40c7424e7981ba541a36552539f6afbc
+base.4=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4b583158e7cdef9820ae5ce13e6d7ebff922f87a
+base.3=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ac046e814fa5b84ed37f691da49c4eacc7ca585e
+base.2=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f298e65840f7d8196686a6ea39a8a5745894e68c
+base.1=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_9ba71229d88443279924865dc895ca3225076cdc
+base.0=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e67a3f56982e583b80dc9cef577448a8c50c1fa5
+file.6=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5b46854c6d5de1ff50c9af97f9429c1f959d4280\\classes.dex
+file.5=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0da3b54a40c7424e7981ba541a36552539f6afbc\\classes.dex
+file.4=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4b583158e7cdef9820ae5ce13e6d7ebff922f87a\\classes.dex
+file.3=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ac046e814fa5b84ed37f691da49c4eacc7ca585e\\classes.dex
+file.2=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f298e65840f7d8196686a6ea39a8a5745894e68c\\classes.dex
+file.1=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_9ba71229d88443279924865dc895ca3225076cdc\\classes.dex
+file.0=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e67a3f56982e583b80dc9cef577448a8c50c1fa5\\classes.dex

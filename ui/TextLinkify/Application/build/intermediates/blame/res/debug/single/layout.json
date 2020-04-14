@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\sourcecode\\android-21\\ui\\TextLinkify\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\sample_main.xml",
+        "source": "F:\\sourcecode\\android-21\\ui\\TextLinkify\\Application\\src\\main\\res\\layout\\sample_main.xml"
+    },
+    {
+        "merged": "F:\\sourcecode\\android-21\\ui\\TextLinkify\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\sourcecode\\android-21\\ui\\TextLinkify\\Application\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\sourcecode\android-21\ui\TextLinkify\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bcf8f4b977924ffce384f61310c05d4c8b43f624">
+        <dex dex="F:\sourcecode\android-21\ui\TextLinkify\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5658902300ae1643f52b63f8f83220d50fe640f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\sourcecode\android-21\ui\TextLinkify\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\sourcecode\android-21\ui\TextLinkify\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b060cd9b5a64825c0d1dd0982e93b582e954c344\classes.dex" />
+    </item>
+
+</items>

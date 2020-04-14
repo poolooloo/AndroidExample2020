@@ -1,0 +1,7 @@
+#Wed Apr 08 17:14:56 CST 2020
+base.0=F\:\\sourcecode\\android-21\\ui\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5658902300ae1643f52b63f8f83220d50fe640f9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\sourcecode\\android-21\\ui\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b060cd9b5a64825c0d1dd0982e93b582e954c344\\classes.dex
+base.1=F\:\\sourcecode\\android-21\\ui\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b060cd9b5a64825c0d1dd0982e93b582e954c344
+file.0=F\:\\sourcecode\\android-21\\ui\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5658902300ae1643f52b63f8f83220d50fe640f9\\classes.dex

@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Fri Apr 10 16:16:24 CST 2020
+2.base=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+5.file=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+6.file=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-w720dp-v13\\activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+7.file=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\pager_item.xml
+5.base=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.file=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+1.file=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+2.file=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_sample.xml
+6.set=ANDROID_RESOURCE
+0.base=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.base=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tile.9.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

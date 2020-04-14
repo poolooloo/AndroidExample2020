@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:20:1-42:12
+	package
+		ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:21:5-51
+	android:versionName
+		ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:20:11-69
+application
+ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:27:5-39:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dell\.android\build-cache\7c206da071d55fd1c8df2554cdfa92b092e70f98\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dell\.android\build-cache\009f54cc3e788e2397d59a5043b22469b41ec71f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dell\.android\build-cache\cefa8e7fa0e97d953e1ca7fe3094a989f42d99c0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dell\.android\build-cache\630abfad229ebe002265d648ad29eaf3e3271b0d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dell\.android\build-cache\4d9dec1d4a7db866812a759c7917f81f50ba8cd2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dell\.android\build-cache\ee046939f58b0ae5b07e36bfc1d8601ffb52eacf\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:27:18-44
+	android:icon
+		ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:29:9-45
+	android:theme
+		ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:30:9-40
+activity#com.example.android.slidingtabsbasic.MainActivity
+ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:32:9-38:20
+	android:label
+		ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:33:19-51
+	android:name
+		ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:32:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dell\.android\build-cache\7c206da071d55fd1c8df2554cdfa92b092e70f98\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dell\.android\build-cache\009f54cc3e788e2397d59a5043b22469b41ec71f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dell\.android\build-cache\cefa8e7fa0e97d953e1ca7fe3094a989f42d99c0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dell\.android\build-cache\630abfad229ebe002265d648ad29eaf3e3271b0d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dell\.android\build-cache\4d9dec1d4a7db866812a759c7917f81f50ba8cd2\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dell\.android\build-cache\ee046939f58b0ae5b07e36bfc1d8601ffb52eacf\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\dell\.android\build-cache\7c206da071d55fd1c8df2554cdfa92b092e70f98\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from F:\sourcecode\android-21\ui\SlidingTabsBasic\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\dell\.android\build-cache\7c206da071d55fd1c8df2554cdfa92b092e70f98\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dell\.android\build-cache\009f54cc3e788e2397d59a5043b22469b41ec71f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dell\.android\build-cache\cefa8e7fa0e97d953e1ca7fe3094a989f42d99c0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dell\.android\build-cache\630abfad229ebe002265d648ad29eaf3e3271b0d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dell\.android\build-cache\4d9dec1d4a7db866812a759c7917f81f50ba8cd2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dell\.android\build-cache\ee046939f58b0ae5b07e36bfc1d8601ffb52eacf\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\dell\.android\build-cache\7c206da071d55fd1c8df2554cdfa92b092e70f98\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\dell\.android\build-cache\7c206da071d55fd1c8df2554cdfa92b092e70f98\output\AndroidManifest.xml:26:9-47

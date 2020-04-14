@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2014 The Android Open Source Project
+4
+5 Licensed under the Apache License, Version 2.0 (the "License");
+6 you may not use this file except in compliance with the License.
+7 You may obtain a copy of the License at
+8
+9     http://www.apache.org/licenses/LICENSE-2.0
+10
+11 Unless required by applicable law or agreed to in writing, software
+12 distributed under the License is distributed on an "AS IS" BASIS,
+13 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14 See the License for the specific language governing permissions and
+15 limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.apprestrictionschema"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="21"
+23-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="21" />
+24-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml
+25
+26    <!-- uses-sdk android:minSdkVersion="21" android:targetSdkVersion="21" / -->
+27    <application
+27-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:25:5-43:19
+28        android:allowBackup="true"
+28-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:26:9-35
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\core-1.0.0\AndroidManifest.xml:22:18-86
+30        android:debuggable="true"
+31        android:icon="@drawable/ic_launcher"
+31-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:27:9-45
+32        android:label="@string/app_name"
+32-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:28:9-41
+33        android:theme="@style/AppTheme" >
+33-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:29:9-40
+34        <meta-data
+34-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:31:9-33:56
+35            android:name="android.content.APP_RESTRICTIONS"
+35-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:32:13-60
+36            android:resource="@xml/app_restrictions" />
+36-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:33:13-53
+37
+38        <activity
+38-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:35:9-42:20
+39            android:name="com.example.android.apprestrictionschema.MainActivity"
+39-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:36:13-41
+40            android:label="@string/app_name" >
+40-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:37:13-45
+41            <intent-filter>
+41-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:38:13-41:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:39:17-69
+42-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:39:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:40:17-77
+44-->F:\sourcecode\android-21\admin\AppRestrictionSchema\Application\src\main\AndroidManifest.xml:40:27-74
+45            </intent-filter>
+46        </activity>
+47    </application>
+48
+49</manifest>

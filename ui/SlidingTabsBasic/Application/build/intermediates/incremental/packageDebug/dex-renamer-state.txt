@@ -1,0 +1,7 @@
+#Fri Apr 10 16:16:26 CST 2020
+base.0=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6e90d28e0f93cc9dfb4c9e3b3e50c87985144081
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_36e8b2cb4776bf5e6b24230d41c5edd1421139a2\\classes.dex
+base.1=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_36e8b2cb4776bf5e6b24230d41c5edd1421139a2
+file.0=F\:\\sourcecode\\android-21\\ui\\SlidingTabsBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6e90d28e0f93cc9dfb4c9e3b3e50c87985144081\\classes.dex
