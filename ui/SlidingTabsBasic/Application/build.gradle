@@ -1,11 +1,13 @@
 buildscript {
     repositories {
+        google()
+        jcenter()
         mavenCentral()
     }
 
     dependencies {
-//        classpath 'com.android.tools.build:gradle:0.12.+'
-        classpath 'com.android.tools.build:gradle:2.3.3'
+//        classpath 'com.android.tools.build:gradle:3.5.2'
+        classpath 'com.android.tools.build:gradle:3.5.3'
     }
 
 }
@@ -15,7 +17,7 @@ apply plugin: 'com.android.application'
 
 dependencies {
 
-    compile "com.android.support:support-v4:25.3.1"
+    implementation 'com.android.support:support-v4:28.0.0'
 
 }
 
@@ -29,10 +31,10 @@ List<String> dirs = [
 
 android {
     compileSdkVersion 28
-    buildToolsVersion "25.0.0"
+    buildToolsVersion "28.0.3"
 
     defaultConfig {
-        minSdkVersion 21
+        minSdkVersion 19
         targetSdkVersion 28
     }
 

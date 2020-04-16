@@ -18,8 +18,8 @@
     package="com.example.android.jobscheduler" >
 
     <uses-sdk
-        android:minSdkVersion="18"
-        android:targetSdkVersion="21" />
+        android:minSdkVersion="19"
+        android:targetSdkVersion="28" />
 
     <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
 

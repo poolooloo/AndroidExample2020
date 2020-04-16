@@ -18,8 +18,8 @@
     package="com.example.android.ttsengine">
 
     <!-- TODO: Fix this when the API level for ICS is finalized. -->
-    <uses-sdk android:minSdkVersion="IceCreamSandwich"
-        android:targetSdkVersion="IceCreamSandwich" />
+<!--    <uses-sdk android:minSdkVersion="IceCreamSandwich"-->
+<!--        android:targetSdkVersion="IceCreamSandwich" />-->
 
     <uses-permission android:name="android.permission.INTERNET" />
 

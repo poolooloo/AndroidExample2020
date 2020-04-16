@@ -45,5 +45,5 @@
     <instrumentation android:name="android.test.InstrumentationTestRunner"
                      android:targetPackage="com.example.android.notepad"
                      android:label="Tests for com.example.android.notepad"/>
-    <uses-sdk android:minSdkVersion="10"></uses-sdk>
+<!--    <uses-sdk android:minSdkVersion="10"></uses-sdk>-->
 </manifest>

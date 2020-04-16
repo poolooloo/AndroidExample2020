@@ -1,32 +1,61 @@
 -- Merging decision tree log ---
 manifest
 ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:20:1-42:12
+INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:20:1-42:12
+INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:20:1-42:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\47fc3950c814b04977735368112c37af\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\b64f80842d3d302e8b4275c4ce2e897c\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\61015dda0f41d63be36764ccaeacf3e4\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\8d97f43c730baedb50b76131bea8976c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\65eb695d8f60c47c48deea4b4bc97d22\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\7e3b4c2f83e256517b094f844ce7d668\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\863b030a4ef24c5e89f12cd832de155e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\3b95216347b91b0d0d6d33ef33ac3197\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\2dd52bdeda96a748df5d7e83cece6c38\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\8069b605758f8fcc2cf1372e87a50a23\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\2fe66d8bec3c90b690bace4d7b7b6157\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\6bb482d4edfb8945df7454050b78aa75\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\4848834a580ecbbeaa84b2c68ac1663a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\45ed680b1ca2374827549d4e2c9e1a90\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\a0e6ae58238c1d1ff8cccab3415a6d19\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\b432947d09f38291043b1b7278108b44\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\8cf450d11667f9427b289f08c2115f5c\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\01d333055a983e736e0a5fac950ffa8f\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\2bd63e96b82e4254cd6653dc8da764d4\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\df65787e67fe4b4bc0635deed9695797\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\a1f5477cd6fd5fad9baa3e263bec7d60\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\60b50828def4ba3859898ffb4c971c21\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:20:1-42:12
+INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:20:1-42:12
 	package
 		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:21:5-46
 	android:versionName
 		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:23:5-30
 		INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
 		INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:20:11-69
 	android:versionCode
 		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:22:5-28
 		INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
 		INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:20:11-69
 application
 ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:27:5-40:19
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dell\.android\build-cache\7c206da071d55fd1c8df2554cdfa92b092e70f98\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dell\.android\build-cache\009f54cc3e788e2397d59a5043b22469b41ec71f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dell\.android\build-cache\cefa8e7fa0e97d953e1ca7fe3094a989f42d99c0\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dell\.android\build-cache\630abfad229ebe002265d648ad29eaf3e3271b0d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dell\.android\build-cache\4d9dec1d4a7db866812a759c7917f81f50ba8cd2\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dell\.android\build-cache\ee046939f58b0ae5b07e36bfc1d8601ffb52eacf\output\AndroidManifest.xml:29:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\45ed680b1ca2374827549d4e2c9e1a90\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\45ed680b1ca2374827549d4e2c9e1a90\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\core-1.0.0\AndroidManifest.xml:22:18-86
 	android:label
 		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:30:9-41
-	android:allowBackup
-		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:28:9-35
 	android:icon
 		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:29:9-45
+	android:allowBackup
+		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:28:9-35
 	android:theme
 		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:31:9-40
 activity#com.example.android.textlinkify.MainActivity
@@ -35,7 +64,7 @@ ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidM
 		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:34:13-45
 	android:name
 		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:33:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:35:13-38:29
 action#android.intent.action.MAIN
 ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:36:17-69
@@ -47,28 +76,65 @@ ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidM
 		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml:37:27-74
 uses-sdk
 INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dell\.android\build-cache\7c206da071d55fd1c8df2554cdfa92b092e70f98\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dell\.android\build-cache\009f54cc3e788e2397d59a5043b22469b41ec71f\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dell\.android\build-cache\cefa8e7fa0e97d953e1ca7fe3094a989f42d99c0\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dell\.android\build-cache\630abfad229ebe002265d648ad29eaf3e3271b0d\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dell\.android\build-cache\4d9dec1d4a7db866812a759c7917f81f50ba8cd2\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dell\.android\build-cache\ee046939f58b0ae5b07e36bfc1d8601ffb52eacf\output\AndroidManifest.xml:21:5-23:58
-	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\dell\.android\build-cache\7c206da071d55fd1c8df2554cdfa92b092e70f98\output\AndroidManifest.xml:23:9-51
+INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
+INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\47fc3950c814b04977735368112c37af\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\47fc3950c814b04977735368112c37af\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\b64f80842d3d302e8b4275c4ce2e897c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\b64f80842d3d302e8b4275c4ce2e897c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\61015dda0f41d63be36764ccaeacf3e4\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\61015dda0f41d63be36764ccaeacf3e4\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\8d97f43c730baedb50b76131bea8976c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\8d97f43c730baedb50b76131bea8976c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\65eb695d8f60c47c48deea4b4bc97d22\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\65eb695d8f60c47c48deea4b4bc97d22\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\7e3b4c2f83e256517b094f844ce7d668\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\7e3b4c2f83e256517b094f844ce7d668\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\863b030a4ef24c5e89f12cd832de155e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\863b030a4ef24c5e89f12cd832de155e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\3b95216347b91b0d0d6d33ef33ac3197\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\3b95216347b91b0d0d6d33ef33ac3197\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\2dd52bdeda96a748df5d7e83cece6c38\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\2dd52bdeda96a748df5d7e83cece6c38\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\8069b605758f8fcc2cf1372e87a50a23\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\8069b605758f8fcc2cf1372e87a50a23\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\2fe66d8bec3c90b690bace4d7b7b6157\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\2fe66d8bec3c90b690bace4d7b7b6157\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\6bb482d4edfb8945df7454050b78aa75\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\6bb482d4edfb8945df7454050b78aa75\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\4848834a580ecbbeaa84b2c68ac1663a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\4848834a580ecbbeaa84b2c68ac1663a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\45ed680b1ca2374827549d4e2c9e1a90\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\45ed680b1ca2374827549d4e2c9e1a90\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\a0e6ae58238c1d1ff8cccab3415a6d19\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\a0e6ae58238c1d1ff8cccab3415a6d19\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\b432947d09f38291043b1b7278108b44\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\b432947d09f38291043b1b7278108b44\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\8cf450d11667f9427b289f08c2115f5c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\8cf450d11667f9427b289f08c2115f5c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\01d333055a983e736e0a5fac950ffa8f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\01d333055a983e736e0a5fac950ffa8f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\2bd63e96b82e4254cd6653dc8da764d4\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\2bd63e96b82e4254cd6653dc8da764d4\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\df65787e67fe4b4bc0635deed9695797\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\df65787e67fe4b4bc0635deed9695797\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\a1f5477cd6fd5fad9baa3e263bec7d60\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\a1f5477cd6fd5fad9baa3e263bec7d60\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\60b50828def4ba3859898ffb4c971c21\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dell\.android\manual-offline-m2\caches\transforms-2\files-2.1\60b50828def4ba3859898ffb4c971c21\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
+INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
 	android:targetSdkVersion
 		INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
+		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
 		INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
+		ADDED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
 		INJECTED from F:\sourcecode\android-21\ui\TextLinkify\Application\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:25.3.1] C:\Users\dell\.android\build-cache\7c206da071d55fd1c8df2554cdfa92b092e70f98\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dell\.android\build-cache\009f54cc3e788e2397d59a5043b22469b41ec71f\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dell\.android\build-cache\cefa8e7fa0e97d953e1ca7fe3094a989f42d99c0\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dell\.android\build-cache\630abfad229ebe002265d648ad29eaf3e3271b0d\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dell\.android\build-cache\4d9dec1d4a7db866812a759c7917f81f50ba8cd2\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dell\.android\build-cache\ee046939f58b0ae5b07e36bfc1d8601ffb52eacf\output\AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\dell\.android\build-cache\7c206da071d55fd1c8df2554cdfa92b092e70f98\output\AndroidManifest.xml:27:9-31
-	android:name
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\dell\.android\build-cache\7c206da071d55fd1c8df2554cdfa92b092e70f98\output\AndroidManifest.xml:26:9-47

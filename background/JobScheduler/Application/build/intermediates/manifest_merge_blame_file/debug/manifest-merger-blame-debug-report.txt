@@ -18,9 +18,9 @@
 18    package="com.example.android.jobscheduler" >
 19
 20    <uses-sdk
-21        android:minSdkVersion="18"
+21        android:minSdkVersion="19"
 21-->F:\sourcecode\android-21\background\JobScheduler\Application\src\main\AndroidManifest.xml
-22        android:targetSdkVersion="21" />
+22        android:targetSdkVersion="28" />
 22-->F:\sourcecode\android-21\background\JobScheduler\Application\src\main\AndroidManifest.xml
 23
 24    <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->

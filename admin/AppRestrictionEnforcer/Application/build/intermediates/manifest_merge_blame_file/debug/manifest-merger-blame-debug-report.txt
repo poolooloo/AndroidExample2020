@@ -20,7 +20,7 @@
 20    android:versionName="1.0" >
 21
 22    <uses-sdk
-23        android:minSdkVersion="21"
+23        android:minSdkVersion="19"
 23-->F:\sourcecode\android-21\admin\AppRestrictionEnforcer\Application\src\main\AndroidManifest.xml
 24        android:targetSdkVersion="28" />
 24-->F:\sourcecode\android-21\admin\AppRestrictionEnforcer\Application\src\main\AndroidManifest.xml
