@@ -17,7 +17,8 @@
 package com.example.android.actionbarcompat.listpopupmenu;
 
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+//import android.support.v7.app.ActionBarActivity;
+import androidx.appcompat.app.AppCompatActivity;
 
 /**
  * This sample shows you how to use {@link android.support.v7.widget.PopupMenu PopupMenu} from

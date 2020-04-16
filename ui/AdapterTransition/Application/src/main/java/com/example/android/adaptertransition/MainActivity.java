@@ -17,7 +17,8 @@
 package com.example.android.adaptertransition;
 
 import android.os.Bundle;
-import android.support.v4.app.FragmentTransaction;
+//import android.support.v4.app.FragmentTransaction;
+import androidx.fragment.app.FragmentTransaction;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.ViewAnimator;

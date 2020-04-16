@@ -17,10 +17,17 @@
 package com.example.android.actionbarcompat.basic;
 
 import android.os.Bundle;
-import android.support.v4.view.MenuItemCompat;
-import android.support.v7.app.ActionBarActivity;
+//import android.support.v4.view.MenuItemCompat;
+//import android.support.v7.app.ActionBarActivity;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.FragmentTransaction;
+import androidx.appcompat.app.ActionBar;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import androidx.core.view.MenuItemCompat;
+
+//import androidx.core.view.MenuItemCompat;
 
 /**
  * This sample shows you how to use ActionBarCompat to create a basic Activity which displays
@@ -29,8 +36,8 @@ import android.view.MenuItem;
  * This Activity extends from {@link ActionBarActivity}, which provides all of the function
  * necessary to display a compatible Action Bar on devices running Android v2.1+.
  */
-public class MainActivity extends ActionBarActivity {
-
+//public class MainActivity extends ActionBarActivity {  //不在使用ActionBarActivity，需更换
+public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
